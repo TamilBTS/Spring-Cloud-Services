@@ -1,0 +1,9 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0">
+    <servers>
+        <server>
+            <id>docker.io</id>
+            <username>tamilarasi1319</username>
+            <password>tamil2001</password>
+        </server>
+    </servers>
+</settings>
